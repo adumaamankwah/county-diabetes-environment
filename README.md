@@ -2,7 +2,7 @@
 
 A county-level secondary analysis of how adult diabetes prevalence relates to **food environment quality** and **access to exercise opportunities** across more than 3,000 U.S. counties. The data come from the 2025 County Health Rankings & Roadmaps.
 
-**Author:** Nana Ama Amankwah, MBChB, MPH
+**Author:** Nana Ama Aduma Amankwah, MBChB, MPH
 
 ## Key findings
 

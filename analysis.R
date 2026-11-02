@@ -2,7 +2,7 @@
 # Diabetes Prevalence and Environmental Determinants Across U.S. Counties
 # Data: 2025 County Health Rankings & Roadmaps (University of Wisconsin
 #       Population Health Institute)
-# Author: Nana Ama Amankwah, MBChB, MPH
+# Author: Nana Ama Aduma Amankwah, MBChB, MPH
 #
 # Purpose:
 #   Assess county-level associations between adult diabetes prevalence and
