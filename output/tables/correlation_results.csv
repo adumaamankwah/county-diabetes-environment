@@ -1,0 +1,4 @@
+"exposure","n_counties","pearson_r","ci_lower_95","ci_upper_95","t_statistic","df","p_value","r_squared","slope","spearman_rho"
+"Food Environment Index",3100,-0.611,-0.632,-0.588,-42.91,3098,3.89000002289778e-316,0.373,-1.172,-0.628
+"% with access to exercise opportunities",3097,-0.29,-0.322,-0.257,-16.84,3095,5.64e-61,0.084,-0.029,-0.297
+"% lacking access to exercise opportunities",3097,0.29,0.257,0.322,16.84,3095,5.64e-61,0.084,0.029,0.297

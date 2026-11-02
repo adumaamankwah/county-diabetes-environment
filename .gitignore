@@ -1,0 +1,12 @@
+# Raw data (public; download from countyhealthrankings.org)
+data/*.xlsx
+
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# OS files
+.DS_Store
+Thumbs.db
