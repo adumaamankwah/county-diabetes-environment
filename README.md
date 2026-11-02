@@ -67,6 +67,6 @@ output/
 
 ## Citation
 
-Amankwah, N. A. (2025). *Diabetes prevalence and environmental determinants across U.S. counties* [Computer software]. GitHub.
+Amankwah, N. A. A. (2025). *Diabetes prevalence and environmental determinants across U.S. counties* [Computer software]. GitHub.
 
 Data: University of Wisconsin Population Health Institute. *County Health Rankings & Roadmaps 2025.* www.countyhealthrankings.org
